@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-🙋‍♀️ Building the best tech we've dreamed of.
+🙋‍♀️ Building the **bestest** tech we've ever dreamed of.
 
-🌈 Check out our Socials! [X](https://x.com/PsychoDuckTech)
+🌈 Check out our Socials! [X](https://x.com/PsychoDuckTech), [Instagram](https://instagram.com/PsychoDuckTech)
 
 👩‍💻 Useful resources - none yet!
 
