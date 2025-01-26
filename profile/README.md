@@ -1,11 +1,32 @@
-## Hi there 👋
+<h1 align="center">
+Hey there 👋
+</h1>
 
-🙋‍♀️ Building the **bestest** tech we've ever dreamed of.
+Welcome to **PsychoDuckTech**!
 
-🌈 Check out our Socials! [𝕏](https://x.com/PsychoDuckTech), [Instagram](https://instagram.com/PsychoDuckTech)
+🙋‍♀️ **We're on a mission to build the tech of our wildest dreams.**
+Whether it's quirky, cutting-edge, or downright magical, we're always experimenting with the future.
 
-👩‍💻 Useful resources - none yet!
+---
 
-🍿 Fun facts - what does our team eat for breakfast? Cheeeeese and Coffee ofc :P
+## 🌈 Check Out Our Socials
+Follow us for updates, shenanigans, and techy goodness:
+- [𝕏](https://x.com/PsychoDuckTech)
+- [Discord](https://discord.gg/JWWVqvAzn3)
+- [Instagram](https://instagram.com/PsychoDuckTech)
 
-🧙 Remember, you can do mighty things with the power of Motivation lmaooo
+---
+
+## 👩‍💻 Useful Resources
+Coming soon! Big things are in the works, so stay tuned for guides, documentation, and more.
+
+---
+
+## 🍿 Fun Facts
+Ever wondered what fuels our team?
+🥐 **Cheese and coffee, obviously.**
+
+---
+
+## 🧙 Words of Wisdom
+With the power of **motivation** (and a little bit of coffee), you can do mighty things!
