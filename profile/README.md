@@ -9,7 +9,7 @@ Whether it's quirky, cutting-edge, or downright magical, we're always experiment
 
 ---
 
-## 🌈 Check Out Our Socials
+## 🤙 Check Out Our Socials
 Stay connected for updates, behind-the-scenes fun, and tech insights:
 - [𝕏](https://x.com/PsychoDuckTech) – Follow us for product updates, tech news, and a dash of humor.
 - [Discord](https://discord.gg/JWWVqvAzn3) – Join our community to chat with the team, get support, and share ideas.
